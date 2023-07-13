@@ -1,4 +1,4 @@
-Estudante de Ciência da Computação na Universidade Federal de Alagoas-UFAL, com foco em desenvolvimento front-end. Apaixonado por tecnologia e design, busco constantemente aprimorar minhas habilidades em HTML, CSS e JavaScript para criar interfaces digitais eficazes e de alta qualidade. Estou comprometido em aprender e contribuir para a comunidade de desenvolvimento, buscando soluções criativas e inovadoras para desafios complexos.
+Estudante de Ciência da Computação na Universidade Federal de Alagoas-UFAL, com foco em desenvolvimento back-end. Busco constantemente aprimorar minhas habilidades em back-end focando principalmente na linguagem Java. Estou comprometido em aprender e contribuir para a comunidade de desenvolvimento, buscando soluções criativas e inovadoras para desafios complexos.
 
 Email de contato: felipe.douglas.alves@hotmail.com
 
